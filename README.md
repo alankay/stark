@@ -1,4 +1,4 @@
-![Stark Screenshot](screenshot-stark.png)
+![Stark Screenshot](stark.png)
 - **Date Created**: November 2025
 - **Technologies**: Swift, Signal-CLI
 
