@@ -3,7 +3,7 @@
 - **Technologies**: Swift, Signal-CLI
 
 # stark
-An unofficial Signal App for Mac from Max OS 10.15.7 onwards
+An unofficial Signal App for Mac OS 10.15.7 onwards for users who don't want to update their mac on older hardware to receive features they don't want they slow them down from getthing the things they want done, done.
 
 ## Why develop this?
 On some devices I use older versions of Mac OS which prevent me from running Signal so I forked a version for Catalina to produce an unofficial app that allows Signal users to use older Mac OS versionw with Signal
