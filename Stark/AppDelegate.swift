@@ -20,7 +20,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
 
     // Your Signal account
-    let signalAccount = "+447577347230"
+    let signalAccount = "+447777777777"
 
     var socketURL: URL {
         return URL(fileURLWithPath: "/tmp/spark.sock")
