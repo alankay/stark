@@ -35,18 +35,3 @@ On some devices I use older versions of Mac OS which prevent me from running Sig
 
 ### Future Possibilities
 - Voice message support
-
-## Installation
-*(Installation instructions will be added here)*
-
-## Building from Source
-*(Build instructions will be added here)*
-
-## Contributing
-Contributions welcome! Feel free to submit pull requests, report bugs, or suggest features.
-
-## Disclaimer
-Stark Messenger is an unofficial third-party client and is not affiliated with Signal Messenger LLC. Use at your own risk.
-
-## License
-*(License information will be added here)*
